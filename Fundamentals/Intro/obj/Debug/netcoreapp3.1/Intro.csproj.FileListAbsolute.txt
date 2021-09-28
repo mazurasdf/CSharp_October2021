@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.exe
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.deps.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\bin\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfo.cs
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\Fundamentals\Intro\obj\Debug\netcoreapp3.1\Intro.genruntimeconfig.cache
