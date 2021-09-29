@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.exe
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.deps.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.runtimeconfig.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\bin\Debug\netcoreapp3.1\Smash.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.AssemblyInfo.cs
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\Smash\obj\Debug\netcoreapp3.1\Smash.genruntimeconfig.cache
