@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.exe
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.deps.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.runtimeconfig.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\bin\Debug\netcoreapp3.1\AbstractInterfaces.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.AssemblyInfo.cs
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.dll
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.pdb
+C:\Users\Michael\Documents\Dojo\Instruction\CSharp_October2021\OOP\AbstractInterfaces\obj\Debug\netcoreapp3.1\AbstractInterfaces.genruntimeconfig.cache
