@@ -1,0 +1,10 @@
+<div class="columnDiv">
+    <img src=@ViewBag.ImgURL alt="man being hanged">
+    <h3>Incorrect: @ViewBag.Incorrect</h3>
+    <h2 id="hint">@ViewBag.Hint</h2>
+    <form class="w-25 mx-auto" method="post" asp-action="GuessLetter" asp-controller="Home">
+        <input type="text" name="Letter" placeholder="enter guess" autofocus>
+        <input type="submit" class="btn btn-sm btn-warning">
+    </form>
+</div>
+

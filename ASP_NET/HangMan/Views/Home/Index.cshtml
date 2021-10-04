@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Start game, add word";
+}
+
+<div class="columnDiv">
+    <h1>Add a word for your friends to guess!</h1>
+
+    <form method="post" asp-action="StartGame" asp-controller="Home">
+        <div class="form-group">
+            <label for="Word">Enter word:</label>
+            <input type="password" class="form-control" name="Word">
+        </div>
+
+        <input type="submit" class="btn btn-danger btn-lg">
+    </form>
+</div>
